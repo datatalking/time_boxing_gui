@@ -1,0 +1,19 @@
+{
+"id": "TASK_build_msg_c7e03d54-0cf3-4072-92b4-558fc84088cf",
+"owner_id": "SCENARIO_scenario_cc96f68a-9072-4764-912d-e6f7b035994e",
+"parent_ids": [
+"SCENARIO_scenario_cc96f68a-9072-4764-912d-e6f7b035994e"
+],
+"config_id": "build_msg",
+"input_ids": [
+"DATANODE_input_name_962c0bca-3854-4ffb-b319-c155d066be19"
+],
+"function_name": "build_message",
+"function_module": "__main__",
+"output_ids": [
+"DATANODE_message_e0297557-299e-4407-8cf4-0f305db4f382"
+],
+"version": "1eb2c037-d16a-4573-8a13-3e13b4b87587",
+"skippable": false,
+"properties": {}
+}

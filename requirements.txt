@@ -1,0 +1,4 @@
+tkinter
+tkcalendar~=1.6.1
+
+taipy~=3.0.0
